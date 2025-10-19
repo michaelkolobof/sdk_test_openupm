@@ -1,7 +1,7 @@
 {
-  "name": "com.playserv_test.sdk_openupm",
+  "name": "com.mk_test.sdk_openupm",
   "version": "1.0.0",
-  "displayName": "PlayServ SDK",
+  "displayName": "Test multiplayer SDK",
   "description": "Multiplayer SDK for Unity.",
   "unity": "2021.3",
   "author": { "name": "SomeName", "url": "https://github.com/michaelkolobof" },
