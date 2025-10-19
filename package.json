@@ -1,0 +1,15 @@
+{
+  "name": "com.playserv_test.sdk_openupm",
+  "version": "1.0.0",
+  "displayName": "PlayServ SDK",
+  "description": "Multiplayer SDK for Unity.",
+  "unity": "2021.3",
+  "author": { "name": "SomeName", "url": "https://github.com/michaelkolobof" },
+  "keywords": ["multiplayer", "sdk"],
+  "samples": [
+    { "displayName": "Quick Start", "description": "Basic setup.", "path": "Samples~/QuickStart" }
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  }
+}
