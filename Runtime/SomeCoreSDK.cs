@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SomeSample
+public class SomeCoreSDK
 {
     
 }
